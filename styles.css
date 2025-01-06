@@ -19,6 +19,12 @@ p {
   margin: 0;  /* Remove default margin */
 }
 
+h3 {
+  font-family: Consolas;
+  color: white;
+  opacity: 0.5;
+}
+
 h1 {
   font-family: Consolas;
   color: white;
@@ -197,4 +203,3 @@ body:after {
     transform: translate(var(--x), var(--y));
   }
 }
-
